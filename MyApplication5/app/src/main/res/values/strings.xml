@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">zura jabauri</string>
+    <string name="okay">Okay</string>
+    <string name="next">Next</string>
+    <string name="hello">Hello,</string>
+    <string name="enter_your_name_here">enter your name here</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="Okay">okay</string>
+</resources>
